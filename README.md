@@ -10,7 +10,9 @@ It prints out on the terminal the results for each one of them.
 
 **Pre-requisistes:**
 >scikit-learn
+
 >numpy
+
 >Scipy
 
 **Usage:**
