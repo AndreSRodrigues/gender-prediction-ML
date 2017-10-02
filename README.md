@@ -1,4 +1,4 @@
-#Gender prediction algorith with ML#
+# Gender prediction algorith with ML
 
 This applications was developt with the intent to train my machine learning (ML) habilities.
 
